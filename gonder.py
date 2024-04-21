@@ -1,4 +1,4 @@
-#  Author:      Cengiz YILMAZ - terabilgi@gmail.com
+#  Author:      Cengiz YILMAZ
 #  Info:        http://datatables.net
 
 
